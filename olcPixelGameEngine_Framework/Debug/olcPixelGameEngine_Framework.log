@@ -1,0 +1,17 @@
+﻿  Raycaster.cpp
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raycaster\olcPixelGameEngine_Framework\Raycaster.cpp(146,21): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raycaster\olcPixelGameEngine_Framework\Raycaster.cpp(145,21): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raycaster\olcPixelGameEngine_Framework\Raycaster.cpp(163,34): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raycaster\olcPixelGameEngine_Framework\Raycaster.cpp(164,34): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raycaster\olcPixelGameEngine_Framework\Raycaster.cpp(181,34): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raycaster\olcPixelGameEngine_Framework\Raycaster.cpp(182,34): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raycaster\olcPixelGameEngine_Framework\Raycaster.cpp(259,20): warning C4018: '<': signed/unsigned mismatch
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raycaster\olcPixelGameEngine_Framework\Raycaster.cpp(269,49): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raycaster\olcPixelGameEngine_Framework\Raycaster.cpp(269,22): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raycaster\olcPixelGameEngine_Framework\Raycaster.cpp(283,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raycaster\olcPixelGameEngine_Framework\Raycaster.cpp(284,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raycaster\olcPixelGameEngine_Framework\Raycaster.cpp(285,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raycaster\olcPixelGameEngine_Framework\Raycaster.cpp(287,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raycaster\olcPixelGameEngine_Framework\Raycaster.cpp(288,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raycaster\olcPixelGameEngine_Framework\Raycaster.cpp(289,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  olcPixelGameEngine_Framework.vcxproj -> C:\2) Personal Projects\olcPixelGameEngine Projects\olcPixelGameEngine Raycaster\Debug\olcPixelGameEngine_Framework.exe
